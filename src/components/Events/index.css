@@ -1,0 +1,41 @@
+.event-bg-cont {
+  min-height: 100vh;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.event-cont {
+  background-color: #64748b;
+  min-height: 100vh;
+  height: 100%;
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+}
+.event-inside-cont {
+  width: 90%;
+}
+.event-h1 {
+  color: #ffffff;
+  font-size: 26px;
+  padding-left: 40px;
+  padding-bottom: 20px;
+}
+.ul-cont {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.registration-details-cont {
+  min-height: 100vh;
+  height: 100%;
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

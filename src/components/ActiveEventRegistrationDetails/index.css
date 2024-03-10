@@ -1,0 +1,45 @@
+.initial-h1 {
+  color: #475569;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 50px;
+}
+.yet-cont {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.yet-img {
+  width: 60%;
+}
+.yet-para {
+  color: #475569;
+  font-size: 15px;
+  text-align: center;
+}
+.yet-btn {
+  border: 0px;
+  outline: none;
+  background-color: #0967d2;
+  width: 60%;
+  height: 35px;
+  color: #ffffff;
+  border-radius: 7px;
+}
+.reg-img {
+  width: 100px;
+}
+.reg-para {
+  color: #323f4b;
+  font-size: 20px;
+  font-weight: bold;
+}
+.closed-h1 {
+  color: #323f4b;
+  font-size: 25px;
+}
+.closed-p {
+  color: #475569;
+  font-size: 15px;
+}
